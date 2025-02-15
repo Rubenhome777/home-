@@ -2521,3 +2521,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Feb2025 01:59:23.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ruben_Catti drowned
 [15Feb2025 01:59:23.525] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ruben_Catti was created at position [x:380, y:7, z:503, dim:minecraft:overworld]
 [15Feb2025 01:59:23.527] [Server thread/INFO] [tombstone/]: The player Ruben_Catti has successfully been saved
+[15Feb2025 02:01:08.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Feb2025 02:01:08.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Feb2025 02:06:08.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Feb2025 02:06:08.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
