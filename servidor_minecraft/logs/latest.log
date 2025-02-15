@@ -75,3 +75,5 @@
 [15Feb2025 00:43:47.935] [Server thread/INFO] [tombstone/]: The player Ruben_Catti has successfully been saved
 [15Feb2025 00:45:06.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Chest Slayer]
 [15Feb2025 00:47:41.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 has made the advancement [Ashes 'n Bones]
+[15Feb2025 00:50:56.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_Dragon_589 lost connection: Disconnected
+[15Feb2025 00:50:56.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The_Dragon_589 left the game

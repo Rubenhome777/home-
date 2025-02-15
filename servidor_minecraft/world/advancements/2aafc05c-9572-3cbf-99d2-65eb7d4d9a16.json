@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-15 00:47:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-02-15 00:45:56 +0000"
@@ -1074,6 +1080,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-02-15 00:47:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 00:33:47 +0000"
@@ -1462,9 +1474,11 @@
     "criteria": {
       "minecraft:sunflower_plains": "2025-02-15 00:06:24 +0000",
       "minecraft:birch_forest": "2025-02-15 00:36:36 +0000",
+      "minecraft:windswept_hills": "2025-02-15 00:47:20 +0000",
       "minecraft:beach": "2025-02-15 00:06:23 +0000",
       "minecraft:river": "2025-02-14 23:59:25 +0000",
       "minecraft:forest": "2025-02-15 00:29:26 +0000",
+      "minecraft:windswept_savanna": "2025-02-15 00:50:41 +0000",
       "minecraft:plains": "2025-02-14 23:58:41 +0000"
     },
     "done": false
