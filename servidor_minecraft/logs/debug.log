@@ -2511,3 +2511,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Feb2025 01:47:29.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ruben_Catti was shot by Skeleton
 [15Feb2025 01:47:29.769] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ruben_Catti was created at position [x:426, y:6, z:386, dim:minecraft:overworld]
 [15Feb2025 01:47:29.770] [Server thread/INFO] [tombstone/]: The player Ruben_Catti has successfully been saved
+[15Feb2025 01:51:08.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Feb2025 01:51:08.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Feb2025 01:52:50.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ruben_Catti was slain by Zombie
+[15Feb2025 01:52:50.418] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ruben_Catti was created at position [x:289, y:-24, z:471, dim:minecraft:overworld]
+[15Feb2025 01:52:50.423] [Server thread/INFO] [tombstone/]: The player Ruben_Catti has successfully been saved
+[15Feb2025 01:56:08.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Feb2025 01:56:08.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Feb2025 01:59:23.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ruben_Catti drowned
+[15Feb2025 01:59:23.525] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ruben_Catti was created at position [x:380, y:7, z:503, dim:minecraft:overworld]
+[15Feb2025 01:59:23.527] [Server thread/INFO] [tombstone/]: The player Ruben_Catti has successfully been saved

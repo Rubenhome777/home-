@@ -90,3 +90,7 @@
 [15Feb2025 01:45:30.182] [Server thread/INFO] [tombstone/]: The player Ruben_Catti has successfully been saved
 [15Feb2025 01:47:29.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ruben_Catti was shot by Skeleton
 [15Feb2025 01:47:29.770] [Server thread/INFO] [tombstone/]: The player Ruben_Catti has successfully been saved
+[15Feb2025 01:52:50.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ruben_Catti was slain by Zombie
+[15Feb2025 01:52:50.423] [Server thread/INFO] [tombstone/]: The player Ruben_Catti has successfully been saved
+[15Feb2025 01:59:23.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ruben_Catti drowned
+[15Feb2025 01:59:23.527] [Server thread/INFO] [tombstone/]: The player Ruben_Catti has successfully been saved
