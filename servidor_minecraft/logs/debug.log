@@ -2500,3 +2500,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Feb2025 01:31:08.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Feb2025 01:36:08.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Feb2025 01:36:08.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Feb2025 01:41:08.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Feb2025 01:41:08.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Feb2025 01:45:30.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ruben_Catti has reached the goal [Strong or Careful]
+[15Feb2025 01:45:30.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ruben_Catti was burnt to a crisp whilst fighting Skeleton
+[15Feb2025 01:45:30.171] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ruben_Catti was created at position [x:450, y:5, z:375, dim:minecraft:overworld]
+[15Feb2025 01:45:30.182] [Server thread/INFO] [tombstone/]: The player Ruben_Catti has successfully been saved
+[15Feb2025 01:46:08.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Feb2025 01:46:08.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Feb2025 01:47:29.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ruben_Catti was shot by Skeleton
+[15Feb2025 01:47:29.769] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ruben_Catti was created at position [x:426, y:6, z:386, dim:minecraft:overworld]
+[15Feb2025 01:47:29.770] [Server thread/INFO] [tombstone/]: The player Ruben_Catti has successfully been saved
