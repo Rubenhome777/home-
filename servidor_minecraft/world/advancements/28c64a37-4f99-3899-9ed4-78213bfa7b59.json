@@ -329,7 +329,8 @@
       "chicken": "2025-02-15 00:03:53 +0000",
       "cooked_mutton": "2025-02-15 01:02:14 +0000",
       "cooked_beef": "2025-02-15 00:23:29 +0000",
-      "mutton": "2025-02-15 00:18:39 +0000"
+      "mutton": "2025-02-15 00:18:39 +0000",
+      "cod": "2025-02-15 02:10:02 +0000"
     },
     "done": false
   },
@@ -1364,6 +1365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-15 02:11:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-02-14 23:52:05 +0000"
@@ -1569,6 +1576,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-15 00:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-15 02:11:03 +0000"
     },
     "done": true
   },
